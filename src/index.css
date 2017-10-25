@@ -1,0 +1,10 @@
+.boxsize{
+  /* min-width: /0px; */
+  width: 500px !important;
+}
+.background-color{
+  background-color:#99CCCC;
+}
+.title{
+  font-weight: bold;
+}
